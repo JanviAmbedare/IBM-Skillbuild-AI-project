@@ -62,7 +62,3 @@ Based on the linear regression model built to predict **Maternal Mortality Rate*
 
 > The linear regression model gives a **good baseline** for understanding maternal mortality trends using global health indicators.
 > It shows that structured global data can be leveraged to support **data-driven healthcare decisions** and track progress toward SDG 3.1.
-
----
-
-Let me know if you'd like a PDF report, dashboard, or a different model (Random Forest, etc.) next!
